@@ -1,0 +1,50 @@
+newmtl almunium
+Kd 1 1 1
+map_Kd almunium.png
+illum 2
+
+newmtl images-4
+Kd 1 1 1
+map_Kd images-4.png
+illum 2
+
+newmtl lightBuild
+Kd 1 1 1
+map_Kd lightBuild.png
+illum 2
+
+newmtl images-2
+Kd 1 1 1
+map_Kd images-2.png
+illum 2
+
+newmtl gray
+Kd 1 1 1
+map_Kd gray.png
+illum 2
+
+newmtl df
+Kd 1 1 1
+map_Kd df.png
+illum 2
+
+newmtl asphalt 1
+Kd 1 1 1
+map_Kd asphalt.png
+illum 2
+
+newmtl grass1
+Kd 1 1 1
+map_Kd grass1.png
+illum 2
+
+newmtl top
+Kd 1 1 1
+map_Kd top.png
+illum 2
+
+newmtl asphalt 5
+Kd 1 1 1
+map_Kd asphalt.png
+illum 2
+

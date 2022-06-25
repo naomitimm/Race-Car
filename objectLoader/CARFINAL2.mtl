@@ -1,0 +1,9 @@
+newmtl 2019-07-12-18-10-17--1180166149
+Kd 1 1 1
+map_Kd 2019-07-12-18-10-17--1180166149.png
+illum 2
+
+newmtl Default_Prototype
+Kd 1 1 1
+illum 2
+

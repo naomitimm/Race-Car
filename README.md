@@ -1,1 +1,3 @@
-# Race-Car-
+# Race-Car
+
+A python race car game using openGL
