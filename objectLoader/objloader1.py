@@ -104,7 +104,7 @@ class OBJ:
                         
                         glTexCoord2fv(self.texcoords[texture_coords[i] - 1])
                     except:
-                        break;
+                        break
                 
                 glVertex3fv(self.vertices[vertices[i] - 1])
             glEnd()
